@@ -23,6 +23,3 @@ _start:
 	mov $0x1, %rax
 	mov $0x0, %rbx
 	int $0x80
-	
-	
-	
